@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.doctorasqarbek_rgb.twa",
+        "sha256_cert_fingerprints": ["5C:66:A2:62:67:10:80:69:72:30:41:91:7D:94:3A:16:ED:3D:43:03:ED:70:1A:4C:48:A2:33:A5:36:D2:E3:3A"]
+      }
+    }]
